@@ -1,1 +1,5 @@
-This project will make the greatest and biggest cheese sandwich. 
+This project will be making a virtual vending machine that the user can interacct with. 
+The vending machine will be stocked according to the user's file. They will be able 
+to add items to their virtual cart, and then proceed to checkout with a payment 
+where they will be given a receipt upon payment. 
+I will be using the MIT liscence. 
